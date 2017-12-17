@@ -1,11 +1,17 @@
 h1{
     text-align: center;
-    color: blue;
+    color: #c47827;
     font-family: 'Press Start 2P', cursive;
+    margin-top:150px;
+    margin-bottom: 50px;
+    font-size: 50px;
 }
 p {
-    font-size: 15px;
+    font-size: 25px;
     font-family: 'Fugaz One', cursive;
+    margin:auto;
+    max-width:1500px;
+    margin-top:50px;
 }
 .blue-button {
     border-radius: 28px;
@@ -21,13 +27,14 @@ p {
 body {
     background-image: url("time-travel.jpg");
     background-repeat: no-repeat;
-    background-size: 1500px;
+    background-size: cover;
 }
-.travel {
+#travel {
     opacity: 0.1;
   
 }
-.clock {
-    opacity: 0.1
-    
+#clock {
+    opacity: 0.8;
+    width: 500px;
+    float:right;
 }
