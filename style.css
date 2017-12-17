@@ -18,3 +18,16 @@ p {
     margin: 20px;
     height: 50px;
 }
+body {
+    background-image: url("time-travel.jpg");
+    background-repeat: no-repeat;
+    background-size: 1500px;
+}
+.travel {
+    opacity: 0.1;
+  
+}
+.clock {
+    opacity: 0.1
+    
+}
