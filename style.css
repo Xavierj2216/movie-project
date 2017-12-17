@@ -6,12 +6,25 @@ h1{
     margin-bottom: 50px;
     font-size: 50px;
 }
+h2{
+    font-size: 25px;
+    font-family: 'Fugaz One', cursive;
+    margin:50px 600px 0px 100px;
+    max-width:1500px;
+    margin-top:50px;
+    margin-right:500px;
+    display:block;
+    color:#f46b42;
+}
 p {
     font-size: 25px;
     font-family: 'Fugaz One', cursive;
-    margin:auto;
+    margin:50px 600px 0px 100px;
     max-width:1500px;
     margin-top:50px;
+    margin-right:500px;
+    display:block;
+    color:#934f0a;
 }
 .blue-button {
     border-radius: 28px;
@@ -29,11 +42,12 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
-#travel {
-    opacity: 0.1;
-  
+#travel{
+    opacity:0.1;
 }
 #hourglass {
     opacity: 0.8;
     float:right;
+    position:relative;
+    right:100px;
 }
