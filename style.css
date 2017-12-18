@@ -24,7 +24,17 @@ p {
     margin-top:50px;
     margin-right:500px;
     display:block;
-    color:#934f0a;
+    color:#f46b42;
+}
+h3 {
+    font-size: 25px;
+    font-family: 'Fugaz One', cursive;
+    margin:50px 600px 0px 100px;
+    max-width:1500px;
+    margin-top:50px;
+    margin-right:500px;
+    display:block;
+    color:#824305;
 }
 .blue-button {
     border-radius: 28px;
