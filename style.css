@@ -1,63 +1,50 @@
-h1{
+h1 {
     text-align: center;
-    color: #c47827;
+    color: #ff9d00;
     font-family: 'Press Start 2P', cursive;
-    margin-top:150px;
+    margin-top: 150px;
     margin-bottom: 50px;
     font-size: 50px;
 }
-h2{
+
+h2 {
     font-size: 25px;
     font-family: 'Fugaz One', cursive;
-    margin:50px 600px 0px 100px;
-    max-width:1500px;
-    margin-top:50px;
-    margin-right:500px;
-    display:block;
-    color:#f46b42;
+    text-align: center;
+    color: #ff4b00;
+    padding-top: 50px;
 }
+
 p {
     font-size: 25px;
     font-family: 'Fugaz One', cursive;
-    margin:50px 600px 0px 100px;
-    max-width:1500px;
-    margin-top:50px;
-    margin-right:500px;
-    display:block;
-    color:#f46b42;
+    margin: 50px 600px 0px 100px;
+    max-width: 1500px;
+    margin-top: 50px;
+    margin-right: 500px;
+    display: block;
+    color: red;
 }
-h3 {
-    font-size: 25px;
-    font-family: 'Fugaz One', cursive;
-    margin:50px 600px 0px 100px;
-    max-width:1500px;
-    margin-top:50px;
-    margin-right:500px;
-    display:block;
-    color:#824305;
-}
+
 .blue-button {
     border-radius: 28px;
     font-family: Arial;
     color: #ffffff;
     font-size: 20px;
     background: #3498db;
-    padding: 10px 20px 10px 20px;
     text-decoration: none;
-    margin: 20px;
-    height: 50px;
+
 }
+
 body {
     background-image: url("time-travel.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
-#travel{
-    opacity:0.1;
-}
+
 #hourglass {
     opacity: 0.8;
-    float:right;
-    position:relative;
-    right:100px;
+    float: right;
+    position: relative;
+    right: 100px;
 }
